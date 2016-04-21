@@ -1,0 +1,2 @@
+include ':recycleviewtest'
+include 'Application'
